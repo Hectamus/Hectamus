@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Hector</h1>
 <h3 align="center">A curious adventurer in the world of programming</h3>
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Python** and **Julia**
 
-- 📫 How to reach me **hmoya-dev@pm.me**
+- 📫 How to reach me **github@hectamus.com**
 
 - ⚡ Fun fact **I have won a game of Clue on the first turn of the game**
 
