@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Python** and **ROS2**
 
-- 📫 How to reach me **github@hectamus.com**
+- 📫 How to reach me: **github@hectamus.com** or **eng@hectormoya.com**
 
 - ⚡ Fun fact **I have won a game of Clue on the first turn of the game**
 
