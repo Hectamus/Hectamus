@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hector</h1>
-<h3 align="center">A curious adventurer in the world of programming</h3>
+<h3 align="center">A curious adventurer in the world of programming, mechanical engineering and robotics.</h3>
 
-- 🌱 I’m currently learning **Python** and **Julia**
+- 🌱 I’m currently learning **Python** and **ROS2**
 
 - 📫 How to reach me **github@hectamus.com**
 
